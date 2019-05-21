@@ -1,3 +1,11 @@
+------------------------------------------------------------------------------------------
+# React-Bingmaps - MTWToronto Release Notes
+This is a fork of the original [react-bingmaps by Iniamudhan](https://github.com/iniamudhan/react-bingmaps).  Bugs have been fixed & the following new functionality has been added:
+- Ability to pass in a boundary to automatically display markers within a region.
+- Ability to pass in and decode point compressed polygons and associated title labels & hyperlinks.
+- General bug fixes.
+
+------------------------------------------------------------------------------------------
 # React-Bingmaps
 ## Introduction
 React-Bingmaps is a react.js version of [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx)
