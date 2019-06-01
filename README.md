@@ -4,6 +4,8 @@ This is a fork of the original [react-bingmaps by Iniamudhan](https://github.com
 - Ability to pass in a boundary to automatically display markers within a region.
 - Ability to pass in and decode point compressed polygons and associated title labels & hyperlinks.
 - General bug fixes.
+- If a single point is passed in the map will center on that point.
+- If multiple points are passed in the map will center on all points.
 
 ------------------------------------------------------------------------------------------
 # React-Bingmaps
